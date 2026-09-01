@@ -1,3 +1,6 @@
+// Copyright 2024 Dallas Gray (@dallasbgray)
+// SPDX-License-Identifier: GPL-2.0-or-later
+
 #include QMK_KEYBOARD_H
 #if __has_include("keymap.h")
 #    include "keymap.h"
